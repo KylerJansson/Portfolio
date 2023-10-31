@@ -30,8 +30,8 @@ h1 {
     font-size: 4.5rem;
     color: white;
     text-shadow:
-        -2px -2px 0 black,
-        2px -2px 0 black,
+        -1px -1px 0 black,
+        1px -1px 0 black,
         -1px 1px 0 black,
         1px 1px 0 black;
     padding: 1%;
@@ -59,8 +59,8 @@ nav a {
     font-size: 1.5rem;
     color: white;
     text-shadow:
-        -2px -2px 0 black,
-        2px -2px 0 black,
+        -1px -1px 0 black,
+        1px -1px 0 black,
         -1px 1px 0 black,
         1px 1px 0 black;
     position: relative;
@@ -127,8 +127,8 @@ article ul {
     font-size: 4rem;
     color: white;
     text-shadow:
-        -2px -2px 0 black,
-        2px -2px 0 black,
+        -1px -1px 0 black,
+        1px -1px 0 black,
         -1px 1px 0 black,
         1px 1px 0 black;
     top: 50%;
