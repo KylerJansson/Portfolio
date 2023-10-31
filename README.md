@@ -22,3 +22,11 @@ N/A
 
 Please refer to the LICENSE in the repo
 ---
+
+## How the wepage looks
+
+![image](https://github.com/KylerJansson/Portfolio/assets/141693361/1d136b5a-2ec1-47ef-ac3c-a3b57f57926a)
+
+## Link to deployed page
+
+https://kylerjansson.github.io/Portfolio/
